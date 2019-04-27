@@ -1,0 +1,126 @@
+.app {
+  // background-color: darkgray;
+  font-size: 20px;
+}
+
+// .country {
+//   background-color: blanchedalmond;
+//   display: flex;
+//   // align-items: center;
+//   // justify-content: center;
+//   width: 99%;
+//   margin: 10px;
+//   border: 1px solid black;
+//   border-radius: 8px;
+//   .country-name-span {
+//     width: 10%;
+//     margin: 10px;
+//   }
+// }
+
+// .team {
+//   background-color: darksalmon;
+//   width: 30%;
+//   margin: 10px;
+//   border: 1px solid black;
+//   border-radius: 8px;
+//   display: flex;
+//   flex-direction: column;
+//   align-items: center;
+//   justify-content: center;
+// }
+
+// .player {
+//   background-color: wheat;
+//   width: 95%;
+//   display: flex;
+//   align-items: center;
+//   justify-content: center;
+//   margin: 10px;
+//   border: 1px solid black;
+//   border-radius: 8px;
+//   .player-name {
+//     width: 25%;
+//     // font-size: 30px;
+//   }
+//   .player-img {
+//     width: 80%;
+//     margin: 5px;
+//   }
+// }
+
+
+.country {
+  border: 1px solid black;
+  margin: 15px 5px;
+  padding: 5px;
+  background-color: blanchedalmond;
+
+  .country-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .country-img-wrapper {
+    width: 40%;
+  }
+
+  .country-img {
+    max-width: 100%;
+    max-height: 100%;
+    // width: 50%;
+  }
+}
+
+.team {
+  margin: 5px;
+  padding: 5px;
+  border: 1px solid black;
+  background-color: darksalmon;
+
+  .team-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .team-img-wrapper {
+    width: 25%;
+  }
+
+  .team-img {
+    max-width: 100%;
+    max-height: 100%;
+    // width: 40%;
+  }
+}
+
+.players {
+  display: flex;
+
+  .player {
+    margin: 5px;
+    border: 1px solid black;
+    background-color: wheat;
+  
+    .player-info {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+  
+    .player-img-wrapper {
+      width: 60%;
+      margin: 5px;
+    }
+  
+    .player-img {
+      max-width: 100%;
+      max-height: 100%;
+      // width: 30%;
+    }
+  }
+}
+
+
