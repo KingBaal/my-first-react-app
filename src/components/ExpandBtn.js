@@ -6,7 +6,9 @@ function ExpandBtn(props) {
   
   return (
     <div>
-      <button onClick={props.onBtnClick}>{props.isOpened ? logo2 : logo1}</button>
+      <button className="btn" onClick={props.onBtnClick}>
+        {props.isOpened ? logo2 : logo1}
+      </button>
     </div>
   )
 }

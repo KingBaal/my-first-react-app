@@ -64,56 +64,56 @@ const countries = [
         countryImg: './imgs/usa.jpg',
         countryTeams: [
             {
-                teamName: 'team4',
+                teamName: 'Boston',
                 teamImg: '',
                 teamPlayers: [
                     {
-                        playerName: 'player10',
-                        playerImg: ''
+                        playerName: 'Kyrie Irving',
+                        playerImg: './imgs/10-irving.jpg'
                     },
                     {
-                        playerName: 'player11',
-                        playerImg: ''
+                        playerName: 'Gordon Hayward',
+                        playerImg: './imgs/11-hayward.jpg'
                     },
                     {
-                        playerName: 'player12',
-                        playerImg: ''
+                        playerName: 'Jaylen Brown',
+                        playerImg: './imgs/12-brown.jpg'
                     }
                 ]
             },
             {
-                teamName: 'team5',
+                teamName: 'Heat',
                 teamImg: '',
                 teamPlayers: [
                     {
-                        playerName: 'player13',
-                        playerImg: ''
+                        playerName: 'Dwyane Wade',
+                        playerImg: './imgs/13-wade.jpg'
                     },
                     {
-                        playerName: 'player14',
-                        playerImg: ''
+                        playerName: 'Udonis Haslem',
+                        playerImg: './imgs/14-haslem.jpg'
                     },
                     {
-                        playerName: 'player15',
-                        playerImg: ''
+                        playerName: 'Hassan Whiteside',
+                        playerImg: './imgs/15-whiteside.jpg'
                     }
                 ]
             },
             {
-                teamName: 'team6',
+                teamName: 'Bucks',
                 teamImg: '',
                 teamPlayers: [
                     {
-                        playerName: 'player16',
-                        playerImg: ''
+                        playerName: 'Giannis Antetokounmpo',
+                        playerImg: './imgs/16-greek-freek.jpg'
                     },
                     {
-                        playerName: 'player17',
-                        playerImg: ''
+                        playerName: 'Eric Bledsoe',
+                        playerImg: './imgs/17-bledsoe.jpg'
                     },
                     {
-                        playerName: 'player18',
-                        playerImg: ''
+                        playerName: 'Pau Gasol',
+                        playerImg: './imgs/18-gasol.jpg'
                     }
                 ]
             }
@@ -124,56 +124,56 @@ const countries = [
         countryImg: '',
         countryTeams: [
             {
-                teamName: 'team7',
+                teamName: 'France',
                 teamImg: '',
                 teamPlayers: [
                     {
-                        playerName: 'player19',
-                        playerImg: ''
+                        playerName: 'Tony Parker',
+                        playerImg: './imgs/19-parker.jpg'
                     },
                     {
-                        playerName: 'player20',
-                        playerImg: ''
+                        playerName: 'Jérôme Moïso',
+                        playerImg: './imgs/20-moiso.jpg'
                     },
                     {
-                        playerName: 'player21',
-                        playerImg: ''
+                        playerName: 'Tariq Abdul-Wahad',
+                        playerImg: './imgs/21-wahad.jpg'
                     }
                 ]
             },
             {
-                teamName: 'team8',
+                teamName: 'Germany',
                 teamImg: '',
                 teamPlayers: [
                     {
-                        playerName: 'player22',
-                        playerImg: ''
+                        playerName: 'Dirk Nowitzki',
+                        playerImg: './imgs/22-nowitzki.jpg'
                     },
                     {
-                        playerName: 'player23',
-                        playerImg: ''
+                        playerName: 'Dennis Schröder',
+                        playerImg: './imgs/23-schröder.jpg'
                     },
                     {
-                        playerName: 'player24',
-                        playerImg: ''
+                        playerName: 'Johannes Voigtmann',
+                        playerImg: './imgs/24-voigtmann.jpg'
                     }
                 ]
             },
             {
-                teamName: 'team9',
+                teamName: 'Italy',
                 teamImg: '',
                 teamPlayers: [
                     {
-                        playerName: 'player25',
-                        playerImg: ''
+                        playerName: 'Awudu Abass',
+                        playerImg: './imgs/25-abass.jpg'
                     },
                     {
-                        playerName: 'player26',
-                        playerImg: ''
+                        playerName: 'Luigi Datome',
+                        playerImg: './imgs/26-datome.jpg'
                     },
                     {
-                        playerName: 'player27',
-                        playerImg: ''
+                        playerName: 'Ariel Filloy',
+                        playerImg: './imgs/27-filloy.jpg'
                     }
                 ]
             }
